@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andreas C. Drichoutis
+title: Daniele Asioli
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,7 +11,7 @@ role: Associate Professor of Consumer Behavior
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Agricultural University of Athens
+- name: University of Reading
   url: https://www.aua.gr/
 
 # Short bio (displayed in user profile at end of posts)
