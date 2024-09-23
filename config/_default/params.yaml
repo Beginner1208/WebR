@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: red
 day_night: true
 font: ''
 font_size: l
@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: adrihout@aua.gr
-phone: +30-2105294781
+email: Dr Daniele Asioli
+phone: +44 (0) 118 378 5426
 address:
   street: Iera Odos 75
   city: Athens
   region: Attica
   postcode: '11855'
-  country: Greece
-  country_code: GR
+  country: United Kingdom
+  country_code: UK
 map:
   provider: '' #mapnik
   api_key: ''
