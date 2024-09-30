@@ -55,9 +55,6 @@ main:
     url: linksresources
     weight: 70
 
-  - name: Για φοιτητές
-    url: forstudents
-    weight: 80
 
   - name: Contact
     url: '#contact'
