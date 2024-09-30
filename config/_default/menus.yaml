@@ -47,9 +47,6 @@ main:
     url: uploads/resume.pdf
     weight: 60
 
-  - name: Experiments in Athens
-    url: experimentsathens
-    weight: 65
 
   - name: Link and resources
     url: linksresources
