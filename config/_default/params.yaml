@@ -23,10 +23,10 @@ twitter: ''
 email: Dr Daniele Asioli
 phone: +44 (0) 118 378 5426
 address:
-  street: Iera Odos 75
-  city: Athens
-  region: Attica
-  postcode: '11855'
+  street: School of Agriculture Policy and Development (SAPD)
+  city: Reading
+  region: England
+  postcode: 'RG6 6EU'
   country: United Kingdom
   country_code: UK
 map:
@@ -34,8 +34,8 @@ map:
   api_key: ''
   zoom: 15
 coordinates:
-  latitude: '37.983116'
-  longitude: '23.702734'
+  latitude: ''
+  longitude: ''
 directions: # Enter [Iasemidi building](https://www2.aua.gr/el/building/ktirio-iasemidi) and take the stairs to the 1st floor
 office_hours:
   #- 'Open door policy'
