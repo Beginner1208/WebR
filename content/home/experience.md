@@ -52,7 +52,7 @@ experience:
     Date_start: '2023-07-17'
     Date_end: '2023-07-21'
     
--   title: Lecturer in Consumer Studies
+  - title: Lecturer in Consumer Studies
     company: Department of Agri-Food Economics and Marketing - School of Agriculture, Policy and Development, University of Reading
     company_url: '(https://www.reading.ac.uk/apd/)'
     #company logo: org-x
