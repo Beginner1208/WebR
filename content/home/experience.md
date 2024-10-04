@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate Professor of Consumer Behavior 
-    company: Dept. of Agricultural Economics & Rural Development - Agricultural University of Athens
-    company_url: 'http://www.aoa.aua.gr/'
+  - title: Associate Professor in Agri-Food Economics and Marketing
+    company: Department of Agri-Food Economics and Marketing - School of Agriculture Policy and Development - University of Reading, United Kingdom
+    company_url: 'https://www.reading.ac.uk/apd/'
     #company_logo: org-x
-    location: Athens
-    date_start: '2019-06-16'
+    location: Reading, UK
+    date_start: '2022-08-01'
     date_end: ''
-    #description: Teaching microeconomics, econometrics, aplied microeconometrics, experimental economics.
+    #description: Teaching Research Methods and Data Analysis, Economics III, The Food Business, and Contemporary Issues in Consumer Behaviour and Marketing.
 
   - title: Associated Faculty 
     company: Human Behavior Laboratory, Texas A&M University
