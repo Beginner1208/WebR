@@ -45,7 +45,7 @@ experience:
     date_start: '2024-05-27'
     date_end: '2024-06-13'
 
-    title: Visiting Lecturer
+  - title: Visiting Lecturer
     Company: Department of Agriculture - University of Naples Federico II
     Company_url: '(https://www.agraria.unina.it/en_GB/home)'
     Location: Naples, Italy
