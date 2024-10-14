@@ -71,14 +71,14 @@ experience:
   company: Norwegian University of Life Science
   company_url: 'https://www.nmbu.no/'
   location: Norway
-  date_start: '2019-06'
+  date_start: '2019'
   date_end: '2020'
  
 - title: Visiting Lecturer
   company: Ho Chi Minh City University of Technology
   company_url: 'https://www.hcmut.edu.vn/'
   location: Ho Chi Minh City, Vietnam
-  date_start: '2020-01'
+  date_start: '2020'
   date_end: ''
  
 - title: Visiting Researcher
@@ -99,7 +99,7 @@ experience:
   company: Korea University
   company_url: 'https://www.korea.edu/'
   location: Seoul, Republic of Korea
-  date_start: '2014-05'
+  date_start: '2014'
   date_end: ''
  
 - title: Marie-Sklodowska Curie Research Fellow
