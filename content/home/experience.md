@@ -39,11 +39,11 @@ experience:
     date_end: '2024-09-12'
 
   - title: Visiting Lecturer
-    Company: Department of Agriculture - University of Naples Federico II
-    Company_url: 'https://www.agraria.unina.it/en_GB/home'
-    Location: Naples, Italy
-    Date_start: '2023-07-17'
-    Date_end: '2023-07-21'
+    company: Department of Agriculture - University of Naples Federico II
+    company_url: 'https://www.agraria.unina.it/en_GB/home'
+    location: Naples, Italy
+    date_start: '2023-07-17'
+    date_end: '2023-07-21'
     
   - title: Lecturer in Consumer Studies
     company: Department of Agri-Food Economics and Marketing - School of Agriculture, Policy and Development, University of Reading
