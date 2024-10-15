@@ -66,14 +66,14 @@ experience:
   location: Dublin, Ireland
   date_start: '2023-05-22'
   date_end: '2023-05-26'
- 
+
 - title: Visiting Lecturer
   company: IAMZ – CIHEAM
   company_url: 'https://www.iamz.ciheam.org/'
   location: Zaragoza, Spain
   date_start: '2022-02-28'
   date_end: '2022-03-04'
- 
+
 - title: Visiting Lecturer
   company: Department of Food Technology, Ho Chi Minh City University of Technology
   company_url: 'https://oisp.hcmut.edu.vn/en/study-programs/bachelor-degree/food-technology'
@@ -81,7 +81,7 @@ experience:
   date_start: '2020-01-04'
   date_end: '2020-01-10'
 
- -title: Visiting Lecturer
+- title: Visiting Lecturer
   company: School of Economics and Business - Norwegian University of Life Science
   company_url: 'https://www.nmbu.no/en/faculties/economics-business'
   location: Aas, Norway
@@ -94,28 +94,28 @@ experience:
   location: Aas, Norway
   date_start: '2018-06-11'
   date_end: '2018-06-22'
- 
+
 - title: Visiting Researcher
   company: Department of Agricultural Economics and Agribusiness, University of Arkansas
   company_url: 'https://agribusiness.uark.edu/'
   location: Fayetteville, United States
   date_start: '2017-01-01'
   date_end: '2017-05-31'
- 
+
 - title: Visiting Researcher
   company: Department of Agricultural and Resource Economics, Korea University
   company_url: 'https://frecon.korea.edu/frecon_en/index.do'
   location: Seoul, Republic of Korea
   date_start: '2014-05-24'
   date_end: '2014-05-31'
- 
+
 - title: Marie-Sklodowska Curie Research Fellow
   company: School of Economics and Business - Norwegian University of Life Science
   company_url: 'https://www.nmbu.no/en/faculties/economics-business'
   location: Aas, Norway
   date_start: '2014-03-01'
   date_end: '2017-12-31'
- 
+
 - title: Marie-Sklodowska Curie Research Fellow
   company: Consumer and Sensory Science, Nofima AS
   company_url: 'https://nofima.com/department/innovation-consumer-and-sensory-sciences/'
@@ -129,28 +129,28 @@ experience:
   location: Aas, Norway
   date_start: '2013-02-01'
   date_end: '2013-10-31'
- 
+
 - title: Post-Doctoral Fellow
   company: Department of Management, Ca’ Foscari University of Venice
   company_url: 'https://www.unive.it/pag/28130/'
   location: Venice, Italy
   date_start: '2011-10-01'
   date_end: '2012-05-31'
- 
+
 - title: Post-Doctoral Fellow
   company: Department of Agricultural Economics and Engineering, University of Bologna
   company_url: 'https://distal.unibo.it/it/index.html'
   location: Bologna, Italy
   date_start: '2009-07-01'
   date_end: '2011-04-30'
- 
+
 - title: Visiting PhD Student
   company: Department of Food, Agricultural and Resources Economics, University of Guelph
   company_url: 'https://www.uoguelph.ca/fare/'
   location: Guelph, Canada
   date_start: '2007-09-01'
   date_end: '2008-02-28'
- 
+
 - title: PhD Student
   company: Department of Agricultural Economics and Engineering, University of Bologna
   company_url: 'https://distal.unibo.it/it/index.html'
