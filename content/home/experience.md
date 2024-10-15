@@ -148,7 +148,7 @@ experience:
   company: Department of Food, Agricultural and Resources Economics, University of Guelph
   company_url: 'https://www.uoguelph.ca/fare/'
   location: Guelph, Canada
-  date_start: '2007-09-01-'
+  date_start: '2007-09-01'
   date_end: '2008-02-28'
  
 - title: PhD Student
