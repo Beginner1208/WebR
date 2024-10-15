@@ -116,7 +116,7 @@ experience:
   date_start: '2014-03-01'
   date_end: '2017-12-31'
  
- -title: Marie-Sklodowska Curie Research Fellow
+- title: Marie-Sklodowska Curie Research Fellow
   company: Consumer and Sensory Science, Nofima AS
   company_url: 'https://nofima.com/department/innovation-consumer-and-sensory-sciences/'
   location: Aas, Norway
