@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Consumer perceptions and attitudes towards Farmers Markets: the case of a Slow Food "Earth Market"&amp;reg;'
+title: 'Consumer perceptions and attitudes towards Farmers Markets: the case of a Slow Food "Earth Market"'
 subtitle: ''
 summary: ''
 authors:
