@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Sensory Attributes and Marketing: an Exploration of Italian Organic Producers' Perspective'
+title: 'Sensory Attributes and Marketing: an Exploration of Italian Organic Producers Perspective'
 subtitle: ''
 summary: ''
 authors:
