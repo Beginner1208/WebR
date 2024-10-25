@@ -18,7 +18,7 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: "24- Asioli et al.pdf"
+  url: "24 - Asioli et al.pdf"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
