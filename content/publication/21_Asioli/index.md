@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ''
+title: 'Can information affect sensory perceptions? Evidence from a survey on Italian organic food consumers'
 subtitle: ''
 summary: ''
 authors:
