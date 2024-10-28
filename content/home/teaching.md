@@ -41,7 +41,6 @@ design:
 
 {{< /display_table_csv >}}
 
-<small>Notes: AUA=Agricultural University of Athens; HOU=Hellenic Open University</small>
 
 
 
