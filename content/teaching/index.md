@@ -14,7 +14,7 @@ title: Teaching Experience
 
 <h2>Past sessional teaching:</h2>
 
-{{< display_table_csv "static/sessopnalpast.csv" >}}
+{{< display_table_csv "static/sessionalpast.csv" >}}
 
 {{< /display_table_csv >}}
 
