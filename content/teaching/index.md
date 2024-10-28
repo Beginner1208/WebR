@@ -11,20 +11,17 @@ title: Teaching Experience
 
 {{< /display_table_csv >}}
 
-<small>Notes: AUA=Agricultural University of Athens; HOU=Hellenic Open University</small>
+
+<h2>Past sessional teaching:</h2>
+
+{{< display_table_csv "static/sessopnalpast.csv" >}}
+
+{{< /display_table_csv >}}
+
 
 <h2>Short courses:</h2>
 
-Summer school on Experimental Auctions: Theory and Applications in Marketing and Consumer Preferences Analysis (with Rudy Nayga, Jayson Lusk & Maurizio Canavari) 
-{{< display_table_csv "static/shortcourses.csv" >}}
+{{< display_table_csv "static/pastshortcourses.csv" >}}
 
 {{< /display_table_csv >}}
 
-
-<h2>Past taught courses:</h2>
-
-{{< display_table_csv "static/pastteaching.csv" >}}
-
-{{< /display_table_csv >}}
-
-Notes: AUA=Agricultural University of Athens; UOI=University of Ioannina
