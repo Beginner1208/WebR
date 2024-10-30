@@ -18,7 +18,6 @@ Platforms, software and miscellanea for experiments:
 - [R markdown](https://rmarkdown.rstudio.com/index.html)
 - [Stata coding guide](https://julianreif.com/guide/)
 - [How to draw maps in Stata](https://medium.com/the-stata-guide/stata-graphs-reprogramming-maps-204f9ec3f2e4)
-- [Create academic website wtih GitHub, Visual Studio Code and Netlify](https://www.dsquintana.blog create-an-academic-website-free-easy-2020/)
 - [Stata\Latex workflow](https://lukestein.github.io/stata-latex-workflows/)
 - [R\Latex integration](https://support.rstudio.com/hc/en-us/articles/200552056-Using-Sweave-and-knitr)
 - [What statistical analysis should I use?](http://www.ats.ucla.edu/stat/stata/whatstat/default.htm)
