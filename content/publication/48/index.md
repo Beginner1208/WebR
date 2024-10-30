@@ -12,9 +12,9 @@ authors:
 - Rodolfo M. Nayga
 tags: []
 categories: []
-date: '2024-01-01T12:00:00+00:00'
-publishdate: '2024-01-01T00:00:00+00:00'
-lastmod: 2024-01-01T22:50:56+02:00
+date: '2025-01-01T12:00:00+00:00'
+publishdate: '2025-01-01T00:00:00+00:00'
+lastmod: 2025-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
