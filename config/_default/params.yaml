@@ -6,9 +6,7 @@
 # Appearance
 
 mode: light
-color: blue
-
-theme: yellow
+color: red
 day_night: true
 font: ''
 font_size: l
