@@ -4,15 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-colors:
-  primary: "#A52A2A"    # Brown
-  secondary: "#FFD700"  # Yellow (Gold)
-  background: "#FFF8DC" # Cornsilk for a softer background
-  text: "#333333"       # Dark text color
+appearance:
+  mode: system
+  color: blue
+day_night: true
+font: ''
+font_size: l
 
-extra_css: ["assets/css/brown-yellow.css"]
-
-assets/css/red.css
 # SEO
 
 site_type: Person
