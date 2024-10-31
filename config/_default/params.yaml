@@ -4,7 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
+appearance:
+  mode: system
+  color: red
+  
 color: red.css
 themes: red.css
 day_night: true
