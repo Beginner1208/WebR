@@ -4,13 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-appearance:
-  mode: system
-  color: blue
-  mode: light
-  color: red
-
-theme: minimal
+theme: forest
 day_night: true
 font: ''
 font_size: L
