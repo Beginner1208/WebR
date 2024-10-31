@@ -1,0 +1,32 @@
+# Theme metadata
+name = "Wheat Yellow-Brown Theme"
+
+[light]
+  # Primary color
+  primary = "rgb(210, 180, 140)" # Light wheat color for accents
+
+  # Menu colors
+  menu_primary = "#F5DEB3" # Wheat background color
+  menu_text = "#3B2F2F"    # Dark brown text
+  menu_text_active = "rgb(210, 180, 140)" # Light wheat color for active menu items
+  menu_title = "#3B2F2F"   # Dark brown for titles
+
+  # Backgrounds
+  background = "#FFF8DC"       # Cornsilk background for a light wheat look
+  home_section_odd = "#FAF0E6" # Linen for alternating sections
+  home_section_even = "#FFF8DC" # Cornsilk for even sections
+
+[dark]
+  # Primary color
+  primary = "rgb(255, 204, 92)" # Brighter yellow-brown for contrast
+
+  # Menu colors
+  menu_primary = "#8B5A2B"    # Darker brown for background
+  menu_text = "#FFF8DC"       # Light wheat text color
+  menu_text_active = "rgb(255, 204, 92)" # Brighter wheat color for active menu items
+  menu_title = "#FFF8DC"      # Light wheat color for titles
+
+  # Backgrounds
+  background = "#3B2F2F"          # Dark brown for main background
+  home_section_odd = "#4E3D2E"    # Slightly lighter brown for odd sections
+  home_section_even = "#3B2F2F"   # Dark brown for even sections
