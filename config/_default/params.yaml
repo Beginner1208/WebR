@@ -5,14 +5,9 @@
 
 # Appearance
 appearance:
-  mode: system
+  mode: light
   color: red
-  
-color: red.css
-themes: red.css
-day_night: true
-font: ''
-font_size: l
+
 
 # SEO
 
