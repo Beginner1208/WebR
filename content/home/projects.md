@@ -29,14 +29,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Lab4Supply
-    tag: Lab4Supply
-  - name: AgriFoodBoost
-    tag: AgriFoodBoost
+  - name: MildSusFruit
+    tag: MildSusFruit
+  - name: UKFoodTrade
+    tag: UKFoodTrade
  # - name: example
  #   tag: example
-  - name: FairLabor
-    tag: FairLabor   
+  - name: VitaminDUK
+    tag: VitaminDUK  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
