@@ -5,7 +5,10 @@
 
 # Appearance
 
-theme: red
+mode: light
+color: blue
+
+theme: yellow
 day_night: true
 font: ''
 font_size: l
