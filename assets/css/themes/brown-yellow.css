@@ -1,0 +1,24 @@
+/* Hugo Blox color theme: BLUE */
+/* brown-yellow.css */
+body {
+  background-color: #FFF8DC; /* Cornsilk background */
+  color: #333333; /* Dark text color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #A52A2A; /* Brown headings */
+}
+
+a {
+  color: #FFD700; /* Yellow (Gold) links */
+}
+
+button, .primary-button {
+  background-color: #A52A2A; /* Brown button background */
+  color: #FFF8DC; /* Light text on brown button */
+}
+
+button:hover, .primary-button:hover {
+  background-color: #FFD700; /* Yellow on hover */
+  color: #333333; /* Dark text on yellow button */
+}
