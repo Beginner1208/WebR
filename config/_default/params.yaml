@@ -7,6 +7,8 @@
 appearance:
   mode: system
   color: blue
+  mode: light
+  color: red
 day_night: true
 font: ''
 font_size: l
