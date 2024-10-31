@@ -9,9 +9,11 @@ appearance:
   color: blue
   mode: light
   color: red
+
+theme: minimal
 day_night: true
 font: ''
-font_size: l
+font_size: L
 
 # SEO
 
