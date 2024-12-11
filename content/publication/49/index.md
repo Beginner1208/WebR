@@ -36,6 +36,6 @@ projects: []
 #publishDate: '2023-01-01T20:50:55.237264Z'
 publication_types: 
 - '2'
-abstract: '1'
+abstract: 'Increasing consumer demand for sustainable, locally produced, and fresh vegetables has prompted the crop industry to adopt new soilless farming systems (SFSs) to supply higher-yield, fresher, and more sustainable foods. To address the anticipated increasing and complex consumer demand for SFSs foods, it is essential to better understand the factors affecting consumer preferences for these new products. The scope of this review is threefold: (i) to identify the main factors influencing consumers' views on SFSs foods (e.g., hydroponics, aquaponics, and vertical farming); (ii) to discuss implications and recommendations for food industries and policymakers; and (iii) to identify potential research gaps for future research avenues. Results from 56 consumer studies showed that consumers' views of SFSs and related foods were mainly affected by product characteristics, as well as socio-cultural and psychological factors. Specifically, sensory properties, sustainability, growing conditions of SFSs, income, education, consumer knowledge, technology neophobia, and affinity were most frequently identified factors. Food industry and policymakers should better educate consumers about the characteristics and advantages of SFSs, which might potentially enhance consumer purchase intention toward these new products. Finally, future research avenues are outlined and discussed.'
 publication: '**Food Quality and Preference**'
 ---
