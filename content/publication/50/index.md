@@ -10,7 +10,7 @@ authors:
 - Martina Ardizzi
 - Francesca Ferroni
 - Doriana De Marco
-- Daniele Asioli
+- admin
 - Giovanni Sogari
 - Maria Alessandra Umiltà
 tags: []
